@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nkb2208
 - 👀 I’m interested in engineering sofware
-- 🌱 I’m currently learning C++, web development
+- 🌱 I’m currently learning C, web development
 
 
 <!---
